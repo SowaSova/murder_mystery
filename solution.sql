@@ -9,7 +9,7 @@ ORDER BY address_number DESC;
 
 SELECT *
 FROM person
-WHERE name LIKE 'Annabel %' ;
+WHERE name LIKE 'Annabel %';
 
 SELECT *
 FROM interview
